@@ -9,12 +9,14 @@ All log data is named after a time text file.
 
 
 Record Format: 
-`2020-05-18T22:21:14 A1151B180C0000D0000E0000F0013G0000H0000I0000J0000K0000L0298M716N10044,028,041,048,024,036,047,*07`
-> The data before 2020-05-18 22:21:14 has no data of standard particulate matter, so the format is like this:
 
+`2020-05-18T22:21:14 A1151B180C0000D0000E0000F0013G0000H0000I0000J0000K0000L0298M716N10044,028,041,048,024,036,047,*07`
+
+> The data before 2020-05-18 22:21:14 has no data of standard particulate matter, so the format is like this:
+>
 > `2019-02-03T19:02:39 A1866B045C0000D0000E0000F0003G0000H0000I0000J0000K0000L0258M608N10167*2C`
 
-Date:`2019-02-03T19:02:39`
+Date:`2020-05-18T22:21:14`
 
 AD value (0-4095) was measured in real time by wind direction: `A1151`
 
